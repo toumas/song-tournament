@@ -1,0 +1,15 @@
+<script>
+</script>
+
+<div class="fixed h-screen w-screen" />
+
+<style>
+  div {
+    z-index: -1;
+    background-image: radial-gradient(
+      circle farthest-corner at -4% -12.9%,
+      rgba(74, 98, 110, 1) 0.3%,
+      rgba(30, 33, 48, 1) 90.2%
+    );
+  }
+</style>
